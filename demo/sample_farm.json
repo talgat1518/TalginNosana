@@ -1,0 +1,33 @@
+{
+  "farm": {
+    "name": "Demo Farm",
+    "country": "Kazakhstan"
+  },
+  "field": {
+    "id": "demo-field-17",
+    "name": "North-17",
+    "area_ha": 343.6
+  },
+  "crop": {
+    "name": "wheat",
+    "season": 2026
+  },
+  "weather": {
+    "rain_7d_mm": 8.2,
+    "forecast_rain_5d_mm": 0.8,
+    "source": "synthetic-demo"
+  },
+  "satellite": {
+    "ndvi": 0.49,
+    "ndvi_previous": 0.64,
+    "source": "synthetic-demo"
+  },
+  "tasks": [
+    {
+      "id": "task-1",
+      "title": "Inspect north-east zone",
+      "status": "overdue"
+    }
+  ],
+  "observations": []
+}
